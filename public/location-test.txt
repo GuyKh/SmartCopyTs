@@ -1,0 +1,34 @@
+Virginia, USA|{"place":"","city":"","county":"","state":"Virginia","country":"United States"}
+Albany, New York|{"place":"","city":"Albany","county":"Albany County","state":"New York","country":"United States"}
+Parkdale Cemetery, Texas, USA|{"place":"Parkdale Cemetery","city":"Plano","county":"Collin County","state":"Texas","country":"United States"}
+Leesburg Cemetary, Leesburg, Washington, Tennessee|{"place":"Leesburg Cemetery","city":"","county":"Washington County","state":"Tennessee","country":"United States"}|Misspelled Cemetery
+Wicomico Parish, Northumberland, Virginia, USA|{"place":"Wicomico Parish","city":"","county":"Northumberland County","state":"Virginia","country":"United States"}
+Green, North Carolina, United States|{"place":"Green","city":"","county":"","state":"North Carolina","country":"United States"}|Misspelled city
+Tennessee Territory|{"place":"Tennessee Territory","city":"","county":"","state":"","country":""}
+Oklahoma|{"place":"","city":"","county":"","state":"Oklahoma","country":"United States"}
+Paul's Valley, OK|{"place":"","city":"Pauls Valley","county":"Garvin County","state":"Oklahoma","country":"United States"}
+Nation Cem, Blountsville, Blount Co, AL|{"place":"Nation Cemetery","city":"Blountsville","county":"Blount County","state":"Alabama","country":"United States"}
+PA ?|{"place":"PA ?","city":"","county":"","state":"","country":""}|Deal with question marks
+Chepultepec, Blount Co, AL|{"place":"","city":"Chepultepec","county":"Blount County","state":"Alabama","country":"United States"}
+Harrison Church Cem., Pinesville, Mecklenburg Co., NC|{"place":"Harrison Church Cemetery","city":"Pineville","county":"Mecklenburg County","state":"North Carolina","country":"United States"}|Pinesville sometimes works, sometimes doesn't! - 0.1.28.10 = 28j
+Point Lookout, MD|{"place":"Point Lookout","city":"St. Inigoes","county":"St. Mary's County","state":"Maryland","country":"United States", "alt": {"place":"","city":"St. Inigoes","county":"St. Mary's County","state":"Maryland","country":"United States"}}
+Long Island, Queens, New York, USA|{"place":"Long Island, Queens","city":"New York","county":"Queens County","state":"New York","country":"United States", "alt": {"place":"","city":"New York","county":"Queens County","state":"New York","country":"United States"}}
+Cripplebush, Kings, New York, USA|{"place":"Cripplebush","city":"","county":"Kings County","state":"New York","country":"United States"}
+Newton, Kings, New York, USA|{"place":"Newton","city":"","county":"Kings County","state":"New York","country":"United States"}
+Jamaica, Queens, New York, USA|{"place":"Jamaica, Queens","city":"New York","county":"Queens County","state":"New York","country":"United States", "alt": {"place":"","city":"New York","county":"Queens County","state":"New York","country":"United States"}}
+Saint Jones Neck, Kent, Delaware, USA|{"place":"Saint Jones Neck","city":"","county":"Kent County","state":"Delaware","country":"United States"}|(same place as Jone's Neck, Delaware, USA)
+Isle of Skye, Inverness-shire County, Scotland|{"place":"Isle of Skye","city":"","county":"Inverness-shire County","state":"Scotland","country":"United Kingdom"}
+Montgomery County, North Carolina, US|{"place":"","city":"","county":"Montgomery County","state":"North Carolina","country":"United States"}|county getting put in Place
+Beaverdam Baptist Church, Kershaw County, S.C.|{"place":"Beaverdam Baptist Church","city":"Cassatt","county":"Kershaw County","state":"South Carolina","country":"United States"}
+Rhode Island|{"place":"","city":"","county":"","state":"Rhode Island","country":"United States"}
+Files Valley Cemetery, Files Valley, Hill County, Texas, USA|{"place":"Files Valley Cemetery","city":"Files Valley","county":"Hill County","state":"Texas","country":"United States"}
+Charlesbourg Quâebec Canada|{"place":"Charlesbourg","city":"Quebec City","county":"Communauté-Urbaine-de-Québec","state":"Quebec","country":"Canada"}
+Rensselaer, Rensselaer, New York, United States of America|{"place":"","city":"Rensselaer","county":"Rensselaer County","state":"New York","country":"United States"}
+Perry, Kentucky, United States|{"place":"","city":"","county":"Perry County","state":"Kentucky","country":"United States"}
+Mayhew Yocum Cemetery, Don Lawson Farm, Menifee County, Kentucky|{"place":"Mayhew Yocum Cemetery, Don Lawson Farm","city":"","county":"Menifee County","state":"Kentucky","country":"United States", "alt": {"place":"Mayhew Yocum Cemetery","city":"","county":"Menifee County","state":"Kentucky","country":"United States"}}
+Measham|{"place":"","city":"Measham","county":"Leicestershire","state":"England","country":"United Kingdom"}
+All Saints, Leicester, Leicestershire, England|{"place":"All Saints","city":"Leicester","county":"Leicestershire","state":"England","country":"United Kingdom", "alt": {"place":"All Saints","city":"Leicester","county":"Leicester","state":"England","country":"United Kingdom"}}
+Bulloch Co, GA|{"place":"","city":"","county":"Bulloch County","state":"Georgia","country":"United States"}
+Wright-Patterson Air Force Base, OH, USA|{"place": "", "city": "Wright-Patterson Air Force Base","county":"Greene County","state":"Ohio","country":"United States"}
+Taj Majal, India|{"place": "Taj Majal", "city": "Agra", "county": "Agra", "state": "Uttar Pradesh", "country": "India"}
+Ontario, CA|{"state": "Ontario", "country": "Canada"}

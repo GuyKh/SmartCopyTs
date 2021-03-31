@@ -1,0 +1,138 @@
+{
+    "appName": {
+        "message": "SmartCopy"
+    },
+    "appShortName": {
+        "message": "SmartCopy"
+    },
+    "appDesc": {
+        "message": "Herramienta para copiar datos genealógicos en Geni."
+    },
+    "consistencyCheck": {
+        "message": "Comprobación de consistencia"
+    },
+    "contains_incorrect_uppercase_lowercase_in_name": {
+        "message": "$person$ contiene un uso incorrecto de mayúsculas y minúsculas en el nombre $pronoun$ ($lang$).",
+        "placeholders": {
+            "person": {
+                "content": "$1"
+            },
+            "pronoun": {
+                "content": "$2"
+            },
+            "lang": {
+                "content": "$3"
+            }
+        }
+    },
+    "contains_incorrect_uppercase_lowercase_in_name_default": {
+        "message": "$person$ contiene un uso incorrecto de mayúsculas y minúsculas en el nombre $pronoun$.",
+        "placeholders": {
+            "person": {
+                "content": "$1"
+            },
+            "pronoun": {
+                "content": "$2"
+            }
+        }
+    },
+    "contains_patronym_in_first_name": {
+        "message": "$person$ contiene un patrónimo o matrónimo en el apellido $pronoun$ ($lang$).",
+        "placeholders": {
+            "person": {
+                "content": "$1"
+            },
+            "pronoun": {
+                "content": "$2"
+            },
+            "lang": {
+                "content": "$3"
+            }
+        }
+    },
+    "contains_patronym_in_first_name_default": {
+        "message": "$person$ contiene un patrónimo o matrónimo en el apellido $pronoun$ .",
+        "placeholders": {
+            "person": {
+                "content": "$1"
+            },
+            "pronoun": {
+                "content": "$2"
+            }
+        }
+    },
+    "contains_non_patronym_in_middle_name": {
+        "message": "$person$ contiene un segundo nombre sin patrónimo o matrónimo $pronoun$ ($lang$).",
+        "placeholders": {
+            "person": {
+                "content": "$1"
+            },
+            "pronoun": {
+                "content": "$2"
+            },
+            "lang": {
+                "content": "$3"
+            }
+        }
+    },
+    "contains_non_patronym_in_middle_name_default": {
+        "message": "$person$ contiene un segundo nombre sin patrónimo o matrónimo $pronoun$.",
+        "placeholders": {
+            "person": {
+                "content": "$1"
+            },
+            "pronoun": {
+                "content": "$2"
+            }
+        }
+    },
+    "living": {
+        "message": "vivo"
+    },
+    "claimed": {
+        "message": "reclamado"
+    },
+    "fixCase": {
+        "message": "solucionar caso"
+    },
+    "fixed": {
+        "message": "solucionado"
+    },
+    "fixName": {
+        "message": "solucionar nombre"
+    },
+    "fixSpace": {
+        "message": "solucionar espacio"
+    },
+    "fixSuffix": {
+        "message": "solucionar sufijo"
+    },
+    "fixTitle": {
+        "message": "solucionar título"
+    },
+    "makePublic": {
+        "message": "haceer público"
+    },
+    "numFamilyMembersBornBeforeYearAreSetAsPrivate": {
+        "message": "$count$ familiares nacidos antes de c.$year$ están declarados como.",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            },
+            "year": {
+                "content": "$2"
+            }
+        }
+    },
+    "personWasBornBeforeYearAndIsSetAsPrivate": {
+        "message": "$person$ nació antes de c.$year$ y está declarada como privada.",
+        "placeholders": {
+            "person": {
+                "content": "$1"
+            },
+            "year": {
+                "content": "$2"
+            }
+        }
+    }
+}

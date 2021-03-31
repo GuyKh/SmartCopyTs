@@ -9,6 +9,9 @@ module.exports = {
       options: path.join(srcDir, 'options.tsx'),
       background: path.join(srcDir, 'background.ts'),
       content_script: path.join(srcDir, 'content_script.tsx'),
+      parse_names: path.join(srcDir, 'parse_names.js'),
+      shared: path.join(srcDir, 'shared.js'),
+      content: path.join(srcDir, 'content.js'),
     },
     output: {
         path: path.join(__dirname, "../dist/js"),
@@ -37,5 +40,12 @@ module.exports = {
             patterns: [{ from: ".", to: "../", context: "public" }],
             options: {},
         }),
+        new CopyPlugin({
+                /* i18n */
+                patterns: [{
+                    from: path.join(srcDir, '_locales'),
+                    to: path.join('..', '_locales')}],
+                options: {},
+        })
     ],
 };
